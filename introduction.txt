@@ -4,3 +4,12 @@ My name is Arth Kamboj, a student in CSE(AIML) branch, active in my third semest
 I completed my high school education from St. Mary's Convent School, and my Inter school education from KDB Public School.
 My achievements in my teenage involves winning multiple Champion Trophy at national level Abacus Championship, and many state level gold medals in same.
 By being a part of Software Incubator Department, I hope to grow my skillset in programming and understand professional workplace behaviour.
+
+SKILLSET:
+  My skills primarily are Problem Solving, and I do competitive programming.
+  I primarily work in Java, while also having basic knowledge in C and python.
+  I also hold basic knowledge in HTML,CSS and MySQL.
+
+HOBBIES:
+  My primary hobby involves reading, mainly novels, light novels and poems.
+  I also play chess in classical and bullet format.
